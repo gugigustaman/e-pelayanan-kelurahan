@@ -10,3 +10,4 @@ e-Pelayanan Kelurahan adalah sistem pelayanan online untuk mengakomodir layanan-
 - Surat Keterangan Tidak Mampu (Kesehatan)
 - Surat Keterangan Tidak Mampu (Pendidikan)
 
+Pada app di repository ini terdapat back office dan API yang dapat diakses oleh aplikasi Android.
